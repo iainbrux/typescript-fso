@@ -5,6 +5,8 @@
     "@types/node": "^15.12.5"
   },
   "scripts": {
-    "ts-node": "ts-node"
+    "ts-node": "ts-node",
+    "multiply": "ts-node multiplier.ts",
+    "calculate": "ts-node caluclator.ts"
   }
 }
